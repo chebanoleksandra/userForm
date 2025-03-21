@@ -15,10 +15,10 @@ function App() {
     {/* <EssayForm/> */}
 
     {/* <FlavorForm/> */}
-    <UserForm />
+    {/* <UserForm /> */}
 
     {/* <FileInput/> */}
-    {/* <CustomTextInput/> */}
+    <CustomTextInput/>
     {/* <CustomTextInput2/> */}
 
 
